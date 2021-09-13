@@ -1,0 +1,25 @@
+*{
+  background-image: url("https://www.chology.co/hubfs/undraw_podcast_q6p7.svg")  ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+button{
+    background-color: blueviolet;
+    border:none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 250px;
+}
+#imag{
+  align-items: center;
+
+}
+
